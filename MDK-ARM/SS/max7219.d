@@ -1,0 +1,34 @@
+ss\max7219.o: ..\New Group\max7219.c
+ss\max7219.o: ..\New Group\max7219.h
+ss\max7219.o: ../Core/Inc/main.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+ss\max7219.o: ../Core/Inc/stm32f1xx_hal_conf.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+ss\max7219.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+ss\max7219.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+ss\max7219.o: ../Drivers/CMSIS/Include/core_cm3.h
+ss\max7219.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ss\max7219.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ss\max7219.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ss\max7219.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ss\max7219.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+ss\max7219.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+ss\max7219.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+ss\max7219.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
